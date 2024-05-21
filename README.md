@@ -52,7 +52,7 @@ The `ft_printf` function should mimic the behavior of the standard `printf` func
 ## Installation / Compile / Run
 1. ⬇️ Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ft_printf.git
+    git clone https://github.com/lbelet/ft_printf.git
     cd ft_printf
     ```
 2. 🔧 Compile the project:
